@@ -1,0 +1,12 @@
+.wizard img {
+  width: 200px;
+  height: 200px;
+
+}
+.wizard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+}
